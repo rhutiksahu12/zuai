@@ -1,4 +1,3 @@
-// src/components/CourseworkDetailsForm.tsx
 
 'use client';
 

@@ -1,4 +1,3 @@
-// src/components/CourseworkList.tsx
 
 'use client';
 

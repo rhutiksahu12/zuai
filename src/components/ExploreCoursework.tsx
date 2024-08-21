@@ -1,4 +1,3 @@
-// src/components/ExploreCoursework.tsx
 
 'use client';
 

@@ -1,4 +1,3 @@
-// src/components/FileUpload.tsx
 
 'use client';
 
@@ -38,7 +37,7 @@ export default function FileUpload() {
                     {isDragActive ? (
                         <p>Drop the file here ...</p>
                     ) : (
-                        <p>Drag 'n' drop a file here, or click to select a file</p>
+                        <p>Drag and drop a file here, or click to select a file</p>
                     )}
                 </div>
             )}
